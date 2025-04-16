@@ -35,7 +35,7 @@ We used publicly available annotated MRI datasets for training and validation. (
 🚀 How to Run the Project
 	1.	Clone the Repository
 
-git clone https://github.com/yourusername/brain-tumour-detection.git
+git clone [https://github.com/yourusername/brain-tumour-detection.git](https://github.com/anuvindarajesh/Brain_tumour_detection)
 cd brain-tumour-detection
 
 
