@@ -30,7 +30,8 @@ This project aims to detect and classify brain tumours from MRI scans using imag
 
 📁 Dataset
 
-We used publicly available annotated MRI datasets for training and validation. (e.g., BraTS or another open-source brain tumour dataset)
+We used publicly available annotated MRI datasets for training and validation. 
+https://www.kaggle.com/code/abdallahwagih/brain-tumor-segmentation-unet-dice-coef-89-6/input
 
 🚀 How to Run the Project
 	1.	Clone the Repository
@@ -55,14 +56,18 @@ pip install -r requirements.txt
 python app.py
 
 
+
 	5.	Open your browser and navigate to http://localhost:5000
 
 📷 Screenshots
 
-(Add screenshots of the UI, segmented outputs, and volume results here)
+![WhatsApp Image 2025-04-03 at 21 29 39](https://github.com/user-attachments/assets/2e529b61-ffa0-4aed-9466-ddf3dfd9acf0)
+![WhatsApp Image 2025-04-03 at 21 29 39 (1)](https://github.com/user-attachments/assets/38260908-664c-4f8d-adf1-79c16a07870c)
+![WhatsApp Image 2025-03-16 at 22 29 43 (1)](https://github.com/user-attachments/assets/02741076-4835-438e-bd6a-4361272f91ec)
+
 
 📈 Results
-	•	Achieved accurate tumour segmentation with visual overlays
+	•	Achieved accurate tumour segmentation 
 	•	Enabled precise volumetric calculation for severity grading
 	•	Improved interpretability and user experience through visual outputs
 
